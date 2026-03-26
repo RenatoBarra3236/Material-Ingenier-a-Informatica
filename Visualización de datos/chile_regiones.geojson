@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"features": [
+{"type":"Feature","properties":{"region":"DE ARICA Y PARINACOTA"},"geometry":{"type":"Polygon","coordinates":[[[-71.1126,-19.2783],[-69.5126,-19.2783],[-69.5126,-17.6783],[-71.1126,-17.6783],[-71.1126,-19.2783]]]}},
+{"type":"Feature","properties":{"region":"DE TARAPACA"},"geometry":{"type":"Polygon","coordinates":[[[-70.9357,-21.0307],[-69.3357,-21.0307],[-69.3357,-19.4307],[-70.9357,-19.4307],[-70.9357,-21.0307]]]}},
+{"type":"Feature","properties":{"region":"DE ANTOFAGASTA"},"geometry":{"type":"Polygon","coordinates":[[[-71.0975,-24.4509],[-69.6975,-24.4509],[-69.6975,-22.8509],[-71.0975,-22.8509],[-71.0975,-24.4509]]]}},
+{"type":"Feature","properties":{"region":"DE ATACAMA"},"geometry":{"type":"Polygon","coordinates":[[[-71.1323,-28.1668],[-69.7323,-28.1668],[-69.7323,-26.5668],[-71.1323,-26.5668],[-71.1323,-28.1668]]]}},
+{"type":"Feature","properties":{"region":"DE COQUIMBO"},"geometry":{"type":"Polygon","coordinates":[[[-72.1436,-30.7533],[-70.5436,-30.7533],[-70.5436,-29.1533],[-72.1436,-29.1533],[-72.1436,-30.7533]]]}},
+{"type":"Feature","properties":{"region":"DE VALPARAISO"},"geometry":{"type":"Polygon","coordinates":[[[-72.4127,-33.8472],[-71.0127,-33.8472],[-71.0127,-32.2472],[-72.4127,-32.2472],[-72.4127,-33.8472]]]}},
+{"type":"Feature","properties":{"region":"METROPOLITANA DE SANTIAGO"},"geometry":{"type":"Polygon","coordinates":[[[-71.4693,-34.2489],[-69.8693,-34.2489],[-69.8693,-32.6489],[-71.4693,-32.6489],[-71.4693,-34.2489]]]}},
+{"type":"Feature","properties":{"region":"DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS"},"geometry":{"type":"Polygon","coordinates":[[[-71.5444,-34.8708],[-69.9444,-34.8708],[-69.9444,-33.2708],[-71.5444,-33.2708],[-71.5444,-34.8708]]]}},
+{"type":"Feature","properties":{"region":"DEL MAULE"},"geometry":{"type":"Polygon","coordinates":[[[-72.4554,-36.1264],[-70.8554,-36.1264],[-70.8554,-34.5264],[-72.4554,-34.5264],[-72.4554,-36.1264]]]}},
+{"type":"Feature","properties":{"region":"DE ÑUBLE"},"geometry":{"type":"Polygon","coordinates":[[[-72.9034,-37.2066],[-71.3034,-37.2066],[-71.3034,-35.6066],[-72.9034,-35.6066],[-72.9034,-37.2066]]]}},
+{"type":"Feature","properties":{"region":"DEL BIOBIO"},"geometry":{"type":"Polygon","coordinates":[[[-73.8444,-37.6201],[-72.2444,-37.6201],[-72.2444,-36.0201],[-73.8444,-36.0201],[-73.8444,-37.6201]]]}},
+{"type":"Feature","properties":{"region":"DE LA ARAUCANIA"},"geometry":{"type":"Polygon","coordinates":[[[-73.3904,-39.2359],[-71.7904,-39.2359],[-71.7904,-37.6359],[-73.3904,-37.6359],[-73.3904,-39.2359]]]}},
+{"type":"Feature","properties":{"region":"DE LOS RIOS"},"geometry":{"type":"Polygon","coordinates":[[[-74.2459,-40.3142],[-72.6459,-40.3142],[-72.6459,-38.7142],[-74.2459,-38.7142],[-74.2459,-40.3142]]]}},
+{"type":"Feature","properties":{"region":"DE LOS LAGOS"},"geometry":{"type":"Polygon","coordinates":[[[-73.9424,-42.2693],[-72.3424,-42.2693],[-72.3424,-40.6693],[-73.9424,-40.6693],[-73.9424,-42.2693]]]}},
+{"type":"Feature","properties":{"region":"DE AYSEN DEL GENERAL CARLOS IBAÑEZ DEL CAMPO"},"geometry":{"type":"Polygon","coordinates":[[[-72.8662,-46.1752],[-71.2662,-46.1752],[-71.2662,-44.5752],[-72.8662,-44.5752],[-72.8662,-46.1752]]]}},
+{"type":"Feature","properties":{"region":"DE MAGALLANES Y DE LA ANTARTICA CHILENA"},"geometry":{"type":"Polygon","coordinates":[[[-71.8171,-54.9638],[-69.2171,-54.9638],[-69.2171,-51.3638],[-71.8171,-51.3638],[-71.8171,-54.9638]]]}}
+]
+}

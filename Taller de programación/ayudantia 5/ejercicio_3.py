@@ -1,0 +1,3 @@
+def numero(n):
+    L=[]
+    

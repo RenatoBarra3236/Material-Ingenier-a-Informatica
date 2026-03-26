@@ -1,0 +1,8 @@
+Mercurio,2439.7
+Venus,6051.8
+Tierra,6371
+Marte,3389.5
+Júpiter,69911
+Saturno,58232
+Urano,25362
+Neptuno,24622
