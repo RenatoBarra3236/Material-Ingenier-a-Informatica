@@ -1,3 +1,3 @@
 # Material-Ingenier-a-Informatica
 
-Este espacio esta creado para que puedan tener ejercicios donde practicar, si tienen material de algo que no se encuentra aqui porfavor hacermelo saber y entregar el material para subirlo y mejor la experiencia de los proximos estudiantes.
+Este espacio ha sido creado para que puedan acceder a ejercicios de práctica. Si cuentan con material sobre algún tema que no se encuentre aquí, por favor háganmelo saber y compártanlo para poder incorporarlo, mejorando así la experiencia de los próximos estudiantes.
